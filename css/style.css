@@ -255,9 +255,21 @@ body {
 }
 
 .widget-conteudo {
-  background-color: #F9F9F9;
+  text-align: center;
+  padding: 5px 0px;
+}
+
+.widget-conteudo div {
   border-bottom: 1px solid #CCC;
-  padding: 2px;
+  font-size: 1.3em;
+  margin: 0 10px;
+  padding: 10px 0px;
+  text-align: left;
+}
+
+.widget-conteudo a {
+  color: #000;
+  text-decoration: none;
 }
 
 /* Estilos section */
