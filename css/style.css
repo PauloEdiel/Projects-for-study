@@ -43,7 +43,7 @@ body {
   text-decoration: none;
 }
 
-.topo-left li .ativo {
+.topo-left .ativo {
   color: #2980b9;
 }
 
@@ -245,17 +245,27 @@ body {
 
 .slideshow-area {
   height: 330px;
-  width: 1360px;
+  width: 748px;
 }
 
 .slide {
-  height: 330px;
   float: left;
+  height: 330px;
+  width: 100%;
+  display: none;
+}
+
+.slide-ativo {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url('http://www.google.com.br/google.jpg');
+  display: block;
 }
 
 .widget {
-  background-color: #FFF;
-  border: 1px solid #CCC;
+  background-color: #fff;
+  border: 1px solid #ccc;
   margin-bottom: 10px;
 }
 
