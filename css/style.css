@@ -250,7 +250,7 @@ body {
 
 .slide {
   float: left;
-  height: 330px;
+  height: 328px;
   width: 100%;
   display: none;
 }
@@ -261,6 +261,22 @@ body {
   background-size: cover;
   background-image: url('http://www.google.com.br/google.jpg');
   display: block;
+}
+
+.slide-info {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 20%;
+  margin-top: 35%;
+}
+
+.slide-info-titulo {
+  color: #fff;
+  font-size: 2.2em;
+}
+
+.slide-info-subtitulo {
+  color: #fff;
+  font-size: 1.8em;
 }
 
 .widget {

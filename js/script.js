@@ -1,8 +1,9 @@
-(function() {
-  'use strict';
-  window.onload = function() {
-    var slidewidth = document.getElementById("slideshow").offsetWidth;
-    var objs = document.getElementsByClassName('slide');
+(function(win, doc) {
+  'use strit';
+  win.onload = function() {
+    var slides = doc.querySelectorAll('.slide');
+    for (var i = 0; i < slides.length; i++) {
+      slides[i].classList.toggle("slideativo");
+    }
   };
-
-})();
+})(window, document);
