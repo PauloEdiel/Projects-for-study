@@ -99,11 +99,11 @@ body {
   height: 85%;
   margin: 7px auto;
   width: 60%;
-  background-color: #E74C3C;
+  background-color: #e74c3c;
 }
 
 .topo2 .logo p {
-  color: #E74C3C;
+  color: #e74c3c;
   font-size: 3.4em;
   font-weight: bold;
   margin-top: .8em;
@@ -115,7 +115,7 @@ body {
 
 .menu {
   height: 40px;
-  background-color: #FF3232;
+  background-color: #ff3232;
 }
 
 .menu-int {
@@ -142,14 +142,14 @@ body {
 }
 
 .menu a {
-  color: #FFF;
+  color: #fff;
   text-decoration: none;
 }
 
 .submenu {
   display: none;
   width: 150px;
-  background-color: #FF3232;
+  background-color: #ff3232;
   /* max-height: 200px; */
   position: absolute;
 }
@@ -163,7 +163,7 @@ body {
 }
 
 .submenuitem:hover {
-  background: #FF5555;
+  background: #ff5555;
 }
 
 .banner h1 {
@@ -185,8 +185,8 @@ body {
 }
 
 .ultimasnoticias-int {
-  background-color: #FFF;
-  border: solid 1px #CCC;
+  background-color: #fff;
+  border: solid 1px #ccc;
   float: left;
   height: 100%;
   margin: auto;
@@ -195,8 +195,8 @@ body {
 }
 
 .ultimasnoticias-red {
-  background-color: #FF0000;
-  color: #FFF;
+  background-color: #ff0000;
+  color: #fff;
   display: inline-block;
   float: left;
   font-size: 1em;
@@ -286,8 +286,8 @@ body {
 }
 
 .widget-titulo {
-  background-color: #DDD;
-  border-bottom: 1px solid #CCC;
+  background-color: #ddd;
+  border-bottom: 1px solid #ccc;
   font-size: 15px;
   height: 30px;
   line-height: 30px;
@@ -300,7 +300,7 @@ body {
 }
 
 .widget-conteudo div {
-  border-bottom: 1px solid #CCC;
+  border-bottom: 1px solid #ccc;
   font-size: 1.3em;
   margin: 0 10px;
   padding: 10px 0px;
