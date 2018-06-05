@@ -26,6 +26,7 @@ function mudarSlide() {
 }
 
 function showSlide(control) {
+  console.log(control)
 
   //slides[i].classList.remove("slide-ativo");
   //slides[valor].classList.add("slide-ativo");

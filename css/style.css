@@ -241,6 +241,7 @@ body {
   height: 330px;
   overflow: hidden;
   background-color: #333;
+  margin-bottom: 30px;
 }
 
 .slideshow-area {
@@ -329,6 +330,18 @@ body {
 .widget-conteudo a {
   color: #000;
   text-decoration: none;
+}
+
+.noticia-principal {
+  float: left;
+  height: 420px;
+  width: 60%;
+}
+
+.noticias-second {
+  height: 420px;
+  width: 34.5%;
+  float: left;
 }
 
 /* Estilos section */
