@@ -336,12 +336,26 @@ body {
   float: left;
   height: 420px;
   width: 60%;
+  background-color: #dadada;
 }
 
 .noticias-second {
   height: 420px;
-  width: 34.5%;
+  width: 40%;
   float: left;
+  background-color: #dfdfdf;
+}
+
+.noticia-img {
+  height: 86px;
+  width: 90px;
+  background-color: #fff;
+}
+
+.noticia-img>img {
+  height: 80px;
+  width: 80px;
+  background-color: #ddd;
 }
 
 /* Estilos section */
