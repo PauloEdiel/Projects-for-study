@@ -336,26 +336,41 @@ body {
   float: left;
   height: 420px;
   width: 60%;
-  background-color: #dadada;
 }
 
 .noticias-second {
   height: 420px;
   width: 40%;
   float: left;
-  background-color: #dfdfdf;
+}
+
+.noticia-item {
+  margin: 5px 0;
+  height: 100px;
 }
 
 .noticia-img {
-  height: 86px;
-  width: 90px;
-  background-color: #fff;
+  float: left;
+  height: 80px;
+  padding: 3px;
+  width: 80px;
+  border: solid 1px #ccc;
+  margin-right: 6px;
 }
 
 .noticia-img>img {
   height: 80px;
   width: 80px;
-  background-color: #ddd;
+  border: none;
+}
+
+.noticia-titulo {
+  font-size: 1.6em;
+}
+
+.noticia-info {
+  color: #999;
+  font-size: 1.2em;
 }
 
 /* Estilos section */
