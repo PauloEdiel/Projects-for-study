@@ -373,4 +373,23 @@ body {
   font-size: 1.2em;
 }
 
+.noticia-big .noticia-img {
+  height: 300px;
+  width: 430px;
+}
+
+.noticia-big img {
+  width: 100%;
+  height: 100%;
+}
+
+.noticia-big .noticia-titulo {
+  padding: 10px;
+  font-size: 32px;
+}
+
+.noticia-big .noticia-info {
+  padding-left: 10px;
+}
+
 /* Estilos section */
