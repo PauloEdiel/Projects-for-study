@@ -235,6 +235,7 @@ body {
   float: left;
   max-width: 750px;
   width: 100%;
+  padding-bottom: 140px;
 }
 
 .slideshow {
@@ -392,4 +393,11 @@ body {
   padding-left: 10px;
 }
 
-/* Estilos section */
+/* Fim Estilos section */
+
+.rodape {
+  background-color: #000;
+  height: 50px;
+  margin-top: 30px;
+  width: 100%;
+}
